@@ -1,0 +1,13 @@
+label{margin-left:-8em;
+    position: relative;
+     bottom: -2.7em;
+}
+input{
+  margin-left: -4em;
+  position: relative;
+  margin: .4rem 0;
+}
+.botones{
+  position: absolute;
+  right: -4em;
+}
